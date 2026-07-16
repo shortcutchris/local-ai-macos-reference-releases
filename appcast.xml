@@ -3,6 +3,16 @@
     <channel>
         <title>Local AI Reference</title>
         <item>
+            <title>0.6.5</title>
+            <pubDate>Thu, 16 Jul 2026 19:19:30 +0200</pubDate>
+            <link>https://github.com/shortcutchris/local-ai-macos-reference-releases</link>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/shortcutchris/local-ai-macos-reference-releases/main/LocalAIReference-0.6.5.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/shortcutchris/local-ai-macos-reference-releases/releases/download/v0.6.5/LocalAIReference-0.6.5.zip" length="15800283" type="application/octet-stream" sparkle:edSignature="QoTisC1RYCTS7rfL41z0Ug7/VBL2Bh+gXm0aRMmsx9O+rflmh7HM18Qs4UjbNAAGAdnHnx0ggStPcoobL91FCw=="/>
+        </item>
+        <item>
             <title>0.6.4</title>
             <pubDate>Thu, 16 Jul 2026 18:28:14 +0200</pubDate>
             <link>https://github.com/shortcutchris/local-ai-macos-reference-releases</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/shortcutchris/local-ai-macos-reference-releases/main/LocalAIReference-0.6.3.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/shortcutchris/local-ai-macos-reference-releases/releases/download/v0.6.3/LocalAIReference-0.6.3.zip" length="15745923" type="application/octet-stream" sparkle:edSignature="jv1w3RqGhMnd5xOoqpHf5vPe8+ROGA6I2clDBhj+paQ0hv6NZ57/i3VlHtRk15iLogkYryC4unWAdqlGUNbRDQ=="/>
-        </item>
-        <item>
-            <title>0.6.2</title>
-            <pubDate>Thu, 16 Jul 2026 15:28:36 +0200</pubDate>
-            <link>https://github.com/shortcutchris/local-ai-macos-reference-releases</link>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/shortcutchris/local-ai-macos-reference-releases/main/LocalAIReference-0.6.2.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/shortcutchris/local-ai-macos-reference-releases/releases/download/v0.6.2/LocalAIReference-0.6.2.zip" length="15723646" type="application/octet-stream" sparkle:edSignature="gBKiyJA0hZCaYpdnSy/Rad35YsqoR6RuhKj5wa+1xCzpDQj2zWlbqqAH/6Ioz6pAGnUNjTXHTodkTzbB9aDhBw=="/>
         </item>
     </channel>
 </rss>
